@@ -1,0 +1,25 @@
+What is React Native 
+React Native (also known as RN) is a popular JavaScript-based mobile app framework
+that allows you to build natively-rendered mobile apps for iOS and Android
+The framework lets you create an application for various platforms by using the same codebase.
+
+Advantages of React Native 
+
+Cross Platform 
+Much less expensive
+Easier to code 
+Save massive amounts of time
+It is an open source
+
+System Requirements is to install dependencies
+
+To start developing React Native applications, you need to set up your environment by installing several dependencies. 
+To build the chat app, the following software is required:
+
+NextJS — A framework for building server-side rendered(SSR) React applications with ease. It handles most of the challenges that come with building SSR React apps.
+Pusher  — Pusher is a technology for building apps with varying real-time needs like push notifications and pub/sub messaging. It is the engine behind the real-time ability of our comments widget.
+Sentiment — Sentiment is a module that uses the AFINN-165 wordlist and Emoji Sentiment Ranking to perform sentiment analysis on arbitrary blocks of the input text.
+React — A very popular JavaScript DOM rendering framework for building scalable web applications using a component-based architecture.
+
+
+
